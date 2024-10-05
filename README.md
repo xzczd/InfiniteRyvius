@@ -31,4 +31,4 @@ http://bbs.sosg.net/topic_443197.html
 
 5. 将Zwei翻译为"子卫"是音意结合译。
 
-6. 本字幕的时轴以 默认值 压制的高压版DVDRIP  为基础，其他片源可能需要适当调轴。尤其需要注意的是，本片的BD片源下集预告位置与DVD不同。（BD是在片尾曲后，DVD在前。）
+6. 本字幕的时轴以 默认值 压制的高压版DVDRIP https://share.dmhy.org/topics/view/176767_Infinite_Ryvius_CHT_DVDRIP_X264_AAC_X264_MKV.html 为基础，其他片源可能需要适当调轴。尤其需要注意的是，本片的BD片源下集预告位置与DVD不同。（BD是在片尾曲后，DVD在前。）
