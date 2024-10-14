@@ -32,3 +32,5 @@ http://bbs.sosg.net/topic_443197.html
 5. 将Zwei翻译为"子卫"是音意结合译。
 
 6. 本字幕的时轴以 默认值 压制的高压版DVDRIP https://share.dmhy.org/topics/view/176767_Infinite_Ryvius_CHT_DVDRIP_X264_AAC_X264_MKV.html 为基础，其他片源可能需要适当调轴。尤其需要注意的是，本片的BD片源下集预告位置与DVD不同。（BD是在片尾曲后，DVD在前。）
+
+7. 第3集开头的某个错字是故意的，具体原因懂日文的朋友应该不难理解，不懂日文的朋友往后看也会明白，这里就不剧透了。
