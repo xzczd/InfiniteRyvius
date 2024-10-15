@@ -29,7 +29,7 @@ Style: op,975 朦胧黑体,70,&H14FFFFFF,&H00808080,&H00000000,&H80000000,-1,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.46,op,,0,0,0,,{\an8\fad(500,500)\blur6.75\bord4.5\i0}翻译: 信至   时轴: 南墙  Echo\N日文字幕：http://ryviuslines.web.fc2.com/index.html
+Dialogue: 0,0:00:00.00,0:00:02.46,op,,0,0,0,,{\an8\fad(500,500)\blur6.75\bord4.5\i0}本字幕由机伤同萌制作 请勿用于商业用途 谢谢合作
 Dialogue: 0,0:00:00.99,0:00:07.05,annot,,0,0,0,,{\fad(500,1200)\pos(810,540)\frz-90\fs69.75\b0\be3}无限的利维亚斯
 Dialogue: 0,0:00:04.71,0:00:07.13,op,,0,0,0,,{\an8\fad(500,500)\blur6.75\bord4.5\i0}翻译: 信至   时轴: 南墙  Echo\N日文字幕：http://ryviuslines.web.fc2.com/index.html
 Dialogue: 0,0:00:08.08,0:00:11.91,sub,,0,0,0,,布鲁发令前进了 命门守卫起飞 赶快\N{\fs6}\N{\fs40}ブルーからゴーが出た ヴァイタル･ガーダー 発進するぞっ 急げーっ
